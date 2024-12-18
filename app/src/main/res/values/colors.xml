@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="black">#FF000000</color>
+        <color name="white">#FFFFFFFF</color>
+        <color name="red">#B62525</color>
+        <color name="main">#EBB1B1</color>
+        <color name="gray">#E1DFDF</color>
+        <color name="green">#00FF00</color>
+        <color name="unread_notification">#FAE0E0</color> <!-- Light blue for unread notifications -->
+        <color name="read_notification">#FFFFFF</color> <!-- White for read notifications -->
+        <color name="purple_200">#FFBB86FC</color>
+        <color name="purple_500">#FF6200EE</color>
+        <color name="purple_700">#FF3700B3</color>
+        <color name="teal_200">#FF03DAC5</color>
+        <color name="teal_700">#FF018786</color>
+        <color name="lightgray">#EEEE</color>
+        <color name="blue">#208ADF</color>
+        <color name="orange">#FF9800</color>
+        <color name="purple">#673AB7</color>
+        <color name="light_blue">#03A9F4</color>
+        <color name="light_green">#8BC34A</color>
+        <color name="red_solid">#B72525</color>
+    </resources>
